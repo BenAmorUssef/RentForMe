@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RentForMe</string>
+    <string name="title_house_detail">House Detail</string>
+    <string name="currency">€</string>
+    <string name="house_address">1499 Galenia Rd, Autin TX 78738</string>
+    <string name="request_info">Request info</string>
+    <string name="call_agent">Call Agent</string>
+</resources>
